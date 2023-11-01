@@ -11,11 +11,8 @@ function App() {
     <section>
         <div className='max-w-container mx-auto'>
           <div className='grid grid-cols-2 border-b border-solid border-black pb-5  mt-5'>
-          
-                
+
                 <h2 className='text-2xl text-[#11111] font-bold  '><input type="checkbox" className='mx-5'/>3 File Selected </h2>
-  
-           
                   <h2  className='text-xl inline text-[red] font-bold text-right'>Delete Files</h2>
                
           </div>
